@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "富士山",
+  "base_artist": "Denki Groove",
+  "createdAt": "2026-02-07T16:09:46.971413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "富士山",
+      "artist": "Denki Groove",
+      "has_synced": false,
+      "path": "select/01_富士山_Denki_Groove.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "富士山 (Techno Disco Fujisan)",
+      "artist": "電気グルーヴ",
+      "has_synced": false,
+      "path": "select/02_富士山_(Techno_Disco_Fujisan)_電気グルーヴ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "富士山 (Techno Disco Fujisan)",
+      "artist": "Denki Groove",
+      "has_synced": false,
+      "path": "select/03_富士山_(Techno_Disco_Fujisan)_Denki_Groove.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FUJI[富士山].rom",
+      "artist": "Tangolo Mangos",
+      "has_synced": true,
+      "path": "select/04_FUJI[富士山].rom_Tangolo_Mangos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "富士山",
+      "artist": "電気グルーヴ",
+      "has_synced": false,
+      "path": "select/pl_01_富士山_電気グルーヴ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "富士山(Techno Disco Fujisan)",
+      "artist": "電気グルーヴ",
+      "has_synced": false,
+      "path": "select/pl_02_富士山(Techno_Disco_Fujisan)_電気グルーヴ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "富士山 (Techno Disco Fujisan)",
+      "artist": "電気グルーヴ",
+      "has_synced": false,
+      "path": "select/pl_03_富士山_(Techno_Disco_Fujisan)_電気グルーヴ.txt"
+    }
+  ]
+}
